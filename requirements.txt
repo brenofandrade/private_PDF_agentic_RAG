@@ -1,1 +1,5 @@
 streamlit
+langchain
+chromadb
+pypdf
+ollama
